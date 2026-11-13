@@ -154,8 +154,8 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 
 | Date | Event | Location |
 |---|---|---|
-| Jan 2026 | **Global Game Jam 2026** (GGJ goes THE LÄND) | Heilbronn |
-| 22–23 May 2025 | **Google × PwC Healthcare Hackathon** | Frankfurt |
+| 26 Jan – 1 Feb 2026 | **Global Game Jam 2026** (GGJ goes THE LÄND) | Heilbronn |
+| 22–23 May 2025 | **Healthcare Hackathon 2025 @ PwC** | Frankfurt |
 
 ---
 
