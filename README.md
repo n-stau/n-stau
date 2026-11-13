@@ -150,6 +150,15 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 
 ---
 
+## 🏆 Hackathons & Game Jams
+
+| Year | Event | Location |
+|---|---|---|
+| 2026 | **Global Game Jam 2026** (GGJ goes THE LÄND) | Heilbronn |
+| 2025 | **Google × PwC Healthcare Hackathon** | Frankfurt |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
