@@ -2,4 +2,4 @@
 
 Software Engineering student at Heilbronn University.
 
-Currently writing my bachelor thesis on AI security.
+Currently writing my bachelor thesis on AI pentesting.
