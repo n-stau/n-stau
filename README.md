@@ -177,7 +177,6 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/followers/n-stau?style=for-the-badge&logo=github&color=16a34a&labelColor=0d1117" />
-<img src="https://img.shields.io/github/created-at/n-stau?style=for-the-badge&label=on%20GitHub%20since&color=16a34a&labelColor=0d1117" />
 </p>
 
 ---
