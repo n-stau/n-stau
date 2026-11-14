@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Nico%20Staudacher&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20AI%20Pentesting%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+student+%40+Heilbronn+University;Bachelor+thesis+on+AI+pentesting;Hackathon+%26+Game+Jam+enthusiast;Building+fun+and+useful+stuff" />
+</p>
+
 <h1 align="center">Hi, I'm Nico 👋</h1>
 
 <p align="center">Software Engineering student at Heilbronn University<br>
@@ -169,6 +177,9 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 <img src="https://streak-stats.demolab.com?user=n-stau&theme=tokyonight" />
 </p>
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n-stau&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=n-stau&theme=onedark&column=7" />
 </p>
 
@@ -176,4 +187,8 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=n-stau&style=for-the-badge&color=blueviolet" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=120&section=footer" />
 </p>
