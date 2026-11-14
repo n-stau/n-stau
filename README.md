@@ -81,7 +81,6 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-15803d?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-15803d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-15803d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-15803d?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-15803d?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-15803d?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-15803d?style=for-the-badge&logo=owasp&logoColor=white)
