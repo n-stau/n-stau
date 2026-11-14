@@ -1,152 +1,112 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=200&section=header&animation=fadeIn&text=Nico%20Staudacher&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20AI%20Pentesting%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=190&section=header&animation=fadeIn&text=Nico%20Staudacher&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20Security%20%C2%B7%20Software%20Engineering%20%C2%B7%20Game%20Dev&descSize=17&descAlignY=56" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Software+Engineering+%40+HHN;Bachelor+thesis%3A+AI+pentesting;Hackathons+%26+game+jams;Building+fun+%26+useful+stuff" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Software+Engineering+%40+HHN;Bachelor+thesis%3A+AI+pentesting;Breaking+AI+to+make+it+safer;Hackathons+%26+game+jams" alt="Typing intro" />
 </p>
 
-<h1 align="center">Hi, I'm Nico 👋</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/nico-staudacher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a> <a href="https://tryhackme.com/p/Ivo89"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a> <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
+</p>
 
-<p align="center">Software Engineering student at Heilbronn University<br>
-Currently writing my bachelor thesis on <b>AI pentesting</b> 🛡️🤖<br>
-Hackathons · Security · Games · Building fun and useful stuff</p>
+<br />
 
----
+```console
+nico@hhn:~$ whoami
+Software Engineering student @ Heilbronn University
 
-## 🧭 About me
+nico@hhn:~$ cat focus.txt
+[*] AI pentesting      bachelor thesis on attacking & hardening AI systems
+[*] Offensive security TryHackMe · Hack The Box
+[*] Game dev           Unity prototypes · game jams
+[*] Hackathons         building things fast with a team
+```
 
-| | |
-|---|---|
-| 🎓 **Studying** | Software Engineering @ Heilbronn University |
-| 📝 **Thesis** | AI pentesting |
-| 🔭 **Working on** | Unity prototypes, security labs, hackathon projects |
-| 🌱 **Learning** | Offensive security, LLM security, RL |
-| 🎯 **Looking for** | Hackathons, Master's programme, working student / junior roles |
-| 📍 **Location** | Germany |
+<br />
 
----
+<table align="center">
+<tr>
+<td width="190" valign="middle"><b>🛠️ Development</b><br /><sub>languages · web · tooling</sub></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=python" width="44" height="44" title="Python" alt="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="44" height="44" title="Java" alt="Java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" width="44" height="44" title="C#" alt="C#" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="44" height="44" title="JavaScript" alt="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" width="44" height="44" title="TypeScript" alt="TypeScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="44" height="44" title="HTML" alt="HTML" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="44" height="44" title="CSS" alt="CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="44" height="44" title="React" alt="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="44" height="44" title="FastAPI" alt="FastAPI" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="44" height="44" title="Docker" alt="Docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="44" height="44" title="Git" alt="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="44" height="44" title="Bash" alt="Bash" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" width="44" height="44" title="Nginx" alt="Nginx" />&nbsp;
+<img src="icons/n8n.svg" width="44" height="44" title="n8n" alt="n8n" />&nbsp;
+<img src="https://skillicons.dev/icons?i=latex" width="44" height="44" title="LaTeX" alt="LaTeX" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="44" height="44" title="Linux" alt="Linux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu" width="44" height="44" title="Ubuntu" alt="Ubuntu" />&nbsp;
+<img src="https://skillicons.dev/icons?i=apple" width="44" height="44" title="macOS" alt="macOS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="44" height="44" title="Windows" alt="Windows" />
+</td>
+</tr>
+<tr>
+<td width="190" valign="middle"><b>🤖 AI &amp; ML</b><br /><sub>LLMs · reinforcement learning</sub></td>
+<td valign="middle">
+<img src="icons/claude.svg" width="44" height="44" title="Claude" alt="Claude" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="44" height="44" title="Python" alt="Python" />&nbsp;
+<img src="icons/numpy.svg" width="44" height="44" title="NumPy" alt="NumPy" />
+</td>
+</tr>
+<tr>
+<td width="190" valign="middle"><b>🔐 Security</b><br /><sub>pentesting · CTFs</sub></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=kali" width="44" height="44" title="Kali Linux" alt="Kali Linux" />&nbsp;
+<img src="icons/burpsuite.svg" width="44" height="44" title="Burp Suite" alt="Burp Suite" />&nbsp;
+<img src="icons/metasploit.svg" width="44" height="44" title="Metasploit" alt="Metasploit" />&nbsp;
+<img src="icons/wireshark.svg" width="44" height="44" title="Wireshark" alt="Wireshark" />&nbsp;
+<img src="icons/owasp.svg" width="44" height="44" title="OWASP" alt="OWASP" />&nbsp;
+<img src="icons/tryhackme.svg" width="44" height="44" title="TryHackMe" alt="TryHackMe" />&nbsp;
+<img src="icons/hackthebox.svg" width="44" height="44" title="Hack The Box" alt="Hack The Box" />
+</td>
+</tr>
+<tr>
+<td width="190" valign="middle"><b>🎮 Games &amp; Creative</b><br /><sub>engines · pixel art · 3D</sub></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=unity" width="44" height="44" title="Unity" alt="Unity" />&nbsp;
+<img src="icons/aseprite.svg" width="44" height="44" title="Aseprite" alt="Aseprite" />&nbsp;
+<img src="https://skillicons.dev/icons?i=blender" width="44" height="44" title="Blender" alt="Blender" />&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" width="44" height="44" title="Supabase" alt="Supabase" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" width="44" height="44" title="C#" alt="C#" />
+</td>
+</tr>
+</table>
 
-## 🧰 Skills
+<br />
 
-🌐 Socials · 💻 Languages · 🧱 Web & Backend · 🤖 AI & Machine Learning · 🔐 Security · 🛠️ DevOps & Tools · 💿 OS · 🎮 Games & Creative
+<h3 align="center">🏆 Hackathons &amp; Game Jams</h3>
 
-<details open>
-<summary><h3>🌐 Socials</h3></summary>
-
-[![GitHub](https://img.shields.io/badge/GitHub-15803d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n-stau)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-15803d?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-staudacher/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-15803d?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ivo89)
-
-</details>
-
-<details open>
-<summary><h3>💻 Languages</h3></summary>
-
-![Bash](https://img.shields.io/badge/Bash-166534?style=for-the-badge&logo=gnubash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-166534?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-166534?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-166534?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-166534?style=for-the-badge&logo=javascript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-166534?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-166534?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/Python-166534?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-166534?style=for-the-badge&logo=typescript&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🧱 Web & Backend</h3></summary>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-16a34a?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-16a34a?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-16a34a?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🤖 AI & Machine Learning</h3></summary>
-
-![Claude](https://img.shields.io/badge/Claude-14532d?style=for-the-badge&logo=claude&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-14532d?style=for-the-badge&logo=openaigym&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-14532d?style=for-the-badge&logo=numpy&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🔐 Security</h3></summary>
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-15803d?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-15803d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-15803d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-15803d?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-15803d?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-15803d?style=for-the-badge&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-15803d?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🛠️ DevOps & Tools</h3></summary>
-
-![Docker](https://img.shields.io/badge/Docker-16a34a?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-16a34a?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-16a34a?style=for-the-badge&logo=linux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-16a34a?style=for-the-badge&logo=n8n&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-16a34a?style=for-the-badge&logo=nginx&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>💿 OS</h3></summary>
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-15803d?style=for-the-badge&logo=kalilinux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-15803d?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-15803d?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-15803d?style=for-the-badge&logo=windows&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🎮 Games & Creative</h3></summary>
-
-![Aseprite](https://img.shields.io/badge/Aseprite-15803d?style=for-the-badge&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-15803d?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-15803d?style=for-the-badge&logo=unity&logoColor=white)
-
-</details>
-
----
-
-## 🏆 Hackathons & Game Jams
+<div align="center">
 
 | Date | Event | Location |
-|---|---|---|
+|:---|:---|:---|
 | 26 Jan – 1 Feb 2026 | **Global Game Jam 2026** (GGJ goes THE LÄND) | Heilbronn |
 | 22–23 May 2025 | **Healthcare Hackathon 2025 @ PwC** | Frankfurt |
 
----
+</div>
 
-## 📊 GitHub Stats
+<br />
+
+<h3 align="center">📈 Activity</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=n-stau&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=22c55e&dates=86efac&stroke=166534&border=22c55e" />
+<img src="https://streak-stats.demolab.com?user=n-stau&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=22c55e&dates=86efac&stroke=166534&border=22c55e&hide_border=false" alt="Streak" />
 </p>
 <p align="center">
-<img src="heatmap.svg" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/github/followers/n-stau?style=for-the-badge&logo=github&color=16a34a&labelColor=0d1117" />
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=n-stau&style=for-the-badge&color=22c55e" />
+<img src="heatmap.svg" alt="Contribution heatmap" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=110&section=footer" width="100%" />
 </p>
