@@ -173,7 +173,7 @@ Hackathons · Security · Games · Building fun and useful stuff</p>
 <img src="https://streak-stats.demolab.com?user=n-stau&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=22c55e&dates=86efac&stroke=166534&border=22c55e" />
 </p>
 <p align="center">
-<img src="https://ghchart.rshah.org/22c55e/n-stau" />
+<img src="heatmap.svg" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/followers/n-stau?style=for-the-badge&logo=github&color=16a34a&labelColor=0d1117" />
