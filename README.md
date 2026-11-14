@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=200&section=header&animation=fadeIn&text=Nico%20Staudacher&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20AI%20Pentesting%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Software+Engineering+%40+HHN;Bachelor+thesis%3A+AI+pentesting;Hackathons+%26+game+jams;Building+fun+%26+useful+stuff" />
+</p>
+
 <h1 align="center">Hi, I'm Nico 👋</h1>
 
 <p align="center">Software Engineering student at Heilbronn University<br>
