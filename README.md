@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=190&section=header&animation=fadeIn&text=Nico%20Staudacher&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20Security%20%C2%B7%20Software%20Engineering%20%C2%B7%20Game%20Dev&descSize=17&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=190&section=header&animation=fadeIn&text=Nico%20Staudacher&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20Pentesting%20%C2%B7%20Software%20Engineering%20%C2%B7%20Game%20Dev&descSize=17&descAlignY=56" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Software+Engineering+%40+HHN;Bachelor+thesis%3A+AI+pentesting;Breaking+AI+to+make+it+safer;Hackathons+%26+game+jams" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Software+Engineering+%40+HHN;Bachelor+thesis%3A+AI+pentesting;LLM+agents+vs.+Active+Directory;Hackathons+%26+game+jams" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ nico@hhn:~$ whoami
 Software Engineering student @ Heilbronn University
 
 nico@hhn:~$ cat focus.txt
-[*] AI pentesting      bachelor thesis on attacking & hardening AI systems
+[*] AI pentesting      thesis: LLM agent harness that pentests Active Directory networks
 [*] Offensive security TryHackMe · Hack The Box
 [*] Game dev           Unity prototypes · game jams
 [*] Hackathons         building things fast with a team
@@ -52,7 +52,7 @@ nico@hhn:~$ cat focus.txt
 </td>
 </tr>
 <tr>
-<td width="190" valign="middle"><b>🤖 AI &amp; ML</b><br /><sub>LLMs · reinforcement learning</sub></td>
+<td width="190" valign="middle"><b>🤖 AI &amp; ML</b><br /><sub>LLM agents · reinforcement learning</sub></td>
 <td valign="middle">
 <img src="icons/claude.svg" width="44" height="44" title="Claude" alt="Claude" />&nbsp;
 <img src="https://skillicons.dev/icons?i=python" width="44" height="44" title="Python" alt="Python" />&nbsp;
