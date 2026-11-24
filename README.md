@@ -96,17 +96,6 @@ nico@hhn:~$ cat focus.txt
 
 </div>
 
-<br />
-
-<h3 align="center">📈 Activity</h3>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=n-stau&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=22c55e&dates=86efac&stroke=166534&border=22c55e&hide_border=false" alt="Streak" />
-</p>
-<p align="center">
-<img src="heatmap.svg" alt="Contribution heatmap" />
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=110&section=footer" width="100%" />
 </p>
